@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>http://api.avatardata.cn/Joke/QueryJokeByTime?key=d180f1faf7414e629b3823d585686eae&amp;page=1&amp;rows=5&amp;sort=asc&amp;time=1418745237</string>
+	<string>http://api.avatardata.cn/Joke/QueryJokeByTime?key=d180f1faf7414e629b3823d585686eae&amp;page=2&amp;rows=5&amp;sort=asc&amp;time=1418745237</string>
+	<string>http://api.avatardata.cn/Joke/QueryJokeByTime?key=d180f1faf7414e629b3823d585686eae&amp;page=3&amp;rows=5&amp;sort=asc&amp;time=1418745237</string>
+</array>
+</plist>
